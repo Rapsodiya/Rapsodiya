@@ -15,4 +15,10 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
+## Statistics
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rapsodiya&theme=blue-green">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapsodiya&theme=blue-green">
+</p>
+
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
